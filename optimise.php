@@ -3,7 +3,7 @@
 
 const MAX_WIDTH       = 1920;
 const MAX_HEIGHT      = 1080;
-const DEFAULT_MAX_KB  = 900;
+const DEFAULT_MAX_KB  = 300;
 const MIN_QUALITY     = 50;   // never go below this to avoid unusable output
 const PNG_COMPRESSION = 9;
 
